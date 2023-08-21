@@ -182,10 +182,6 @@ KnoxDev_CarThief.DoCall = function ()
     end
 end
 
-RegisterCommand('sdghsdgsd', function ()
-    KnoxDev_CarThief.CameraVehicle()
-end)
-
 KnoxDev_CarThief.CameraVehicle = function ()
     local randomico = math.random(1, #KnoxDev_CarThief_Config.VehicleSpawn)
     KnoxDev_CarThief.CreateCamera('NPC_VEHICLE', KnoxDev_CarThief_Config.VehicleSpawn[randomico]['cam'])
