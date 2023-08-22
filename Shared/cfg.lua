@@ -8,7 +8,7 @@ KnoxDev_CarThief_Config.UseItem = 'lockpick' -- if you set '' , is false
 
 KnoxDev_CarThief_Config.LockPick_Time = math.random(11000,15000)
 
-KnoxDev_CarThief_Config.Time_Remaining = 1 --Seconds
+KnoxDev_CarThief_Config.Time_Remaining = 150 --Seconds
 KnoxDev_CarThief_Config.Time_Update_GPS = 10 --Seconds
 KnoxDev_CarThief_Config.Time_Remove_GPS = 1 -- Minutes
 KnoxDev_CarThief_Config.Time_Remaining_Vehicle = 30 -- Seconds | You have * seconds to go back to the vehicle, if you don't go back everything is cancelled
