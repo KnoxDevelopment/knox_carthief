@@ -1,8 +1,12 @@
 # knox_carthief
 
+Store:
+https://knox.tebex.io/
+
+
 
 Discord:
-https://discord.gg/W49wK6vveV
+https://discord.gg/C8Vd8esa4Q
 
 
 # Install:
